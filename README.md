@@ -2,7 +2,7 @@
 
 #### _HTML Exercise for Epicodus, 05.26.2020_
 
-#### By _**Peter Grimm, Brandon Day**_
+#### By _**Peter Grimm, Brandon Day, JohnNils Olson**_
 
 ## Description
 
@@ -19,5 +19,5 @@ HTML
 
 ## Legal
 
-Copyright (c) 2020 **_Peter Grimm, Brandon Day_**
+Copyright (c) 2020 **_Peter Grimm, Brandon Day, JohnNils Olson_**
 This software is licensed under the MIT license.
